@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Nav_Close">Nav Close</string>
+    <string name="Nav_Open">Nav Open</string>
+    <string name="abc_search_hint">Search…</string>
+
+    <string name="apis_link">APIs Link</string>
+    <string name="app_name">APIs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

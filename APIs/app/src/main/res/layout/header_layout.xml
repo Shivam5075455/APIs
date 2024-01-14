@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dim_200"
+    android:background="@color/dark_orange"
+    android:orientation="vertical"
+    android:padding="@dimen/dim_14">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/dim_90"
+        android:src="@drawable/apitest" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Facts"
+        android:textColor="@color/white"
+        android:textSize="30sp" />
+</LinearLayout>
